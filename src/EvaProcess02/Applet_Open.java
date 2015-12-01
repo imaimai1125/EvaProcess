@@ -36,10 +36,7 @@ import java.util.Random;
 
 import EvaProcess02.Cell.CellKind;
 import EvaProcess02.Cell.ParticleKind;
-
-
-
-
+//アプレットクラス
 public class Applet_Open extends Applet implements
 ActionListener,MouseListener, Runnable {
 
