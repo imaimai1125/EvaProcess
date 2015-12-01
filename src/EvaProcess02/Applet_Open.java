@@ -175,7 +175,8 @@ ActionListener,MouseListener, Runnable {
 			}else {
 				stop();
 				System.out.println(step);
-				step = 0;
+				step = 0
+						;
 				rnd = new Random();
 				var = new Variable();
 				//ネットワークを初期化
